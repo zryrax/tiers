@@ -11,14 +11,14 @@
     "region": "ASIA",
     "cat": "sword",
     "tier": "LT3",
-    "discord_id": "1336049595138179144",
-    "active": true
+    "discord_id": "1336049595138179144"
   },
   {
     "name": "Purpleed",
     "region": "ASIA",
     "cat": "axe",
     "tier": "LT4",
-    "discord_id": "1336049595138179144"
+    "discord_id": "1336049595138179144",
+    "active": true
   }
 ]
