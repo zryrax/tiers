@@ -26,5 +26,12 @@
     "region": "ASIA",
     "cat": "temp",
     "tier": "Unranked"
+  },
+  {
+    "name": "Arthurplayz",
+    "region": "ASIA",
+    "cat": "temp",
+    "tier": "Unranked",
+    "discord_id": "1428025744528904333"
   }
 ]
